@@ -66,14 +66,17 @@ This project follows Microsoft’s recommended middleware order:
 ## 🛠️ Example Commands
 
 Run the app:
-´dotnet run´
-
+```
+dotnet run
+```
 Build the app:
-´dotnet build´
-
+```
+dotnet build
+```
 Add new package:
-´dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer´
-
+```
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+```
 ---
 
 ## 🧾 License
